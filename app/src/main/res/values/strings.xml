@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Votos y Evidencias </string>
+
+    <string name="splash">Elecciones Rector %1$s </string>
+
+    <string name="tab_title_1">Candidatos</string>
+
+    <string name="tab_title_2">Evidencias</string>
+
+    <string name="voto">votos: </string>
+
+    <string name="sending_candidates_votes">Enviando los votos al servidor ...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
